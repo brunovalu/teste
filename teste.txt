@@ -4,4 +4,4 @@
 4 - configurações globais do git (git congig --global user.name "nome"/ user.email email)
 5 - adicionar o repositorio(github) remoto no git (git remote add origin git@github.com:brunovalu/REPOSITORIO.git)
 6 - CRIAR ARQUIVOS, ADICIONAR TEXTO git add arquivo/ git commit -m "mensagem"
-7 - git push origen master
+7 - git push origen master 
